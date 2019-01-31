@@ -1,6 +1,6 @@
 {
   "name": "pushdata-bitcoin",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "description": "encode/decode value as bitcoin OP_PUSHDATA integer",
   "keywords": [
     "push",
@@ -30,19 +30,13 @@
     "type": "git",
     "url": "https://github.com/bitcoinjs/pushdata-bitcoin.git"
   },
-  "scripts": {
-    "prepublish": "npm run test",
-    "coverage": "nyc --check-coverage --branches 100 --functions 100 tape test/*.js",
-    "lint": "standard",
-    "test": "npm run lint && npm run unit",
-    "unit": "tape test/*.js"
-  },
+  "scripts": {},
   "devDependencies": {
     "nyc": "^6.4.0",
     "standard": "*",
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "bitcoin-ops": "^1.3.0"
+    "bitcoincash-ops": "Bitcoin-com/bitcoincash-ops#2.0.0"
   }
 }
