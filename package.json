@@ -1,5 +1,5 @@
 {
-  "name": "pushdata-bitcoin",
+  "name": "@tatumio/pushdata-bitcoin",
   "version": "1.2.1",
   "description": "encode/decode value as bitcoin OP_PUSHDATA integer",
   "keywords": [
