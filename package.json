@@ -1,6 +1,6 @@
 {
   "name": "@tatumio/pushdata-bitcoin",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "encode/decode value as bitcoin OP_PUSHDATA integer",
   "keywords": [
     "push",
@@ -37,6 +37,6 @@
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "bitcoincash-ops": "Bitcoin-com/bitcoincash-ops"
+    "@tatumio/bitcoincash-ops": "2.0.0"
   }
 }
