@@ -37,6 +37,6 @@
     "tape": "^4.5.1"
   },
   "dependencies": {
-    "bitcoincash-ops": "Bitcoin-com/bitcoincash-ops#2.0.0"
+    "bitcoincash-ops": "Bitcoin-com/bitcoincash-ops"
   }
 }
