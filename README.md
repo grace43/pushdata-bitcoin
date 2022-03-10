@@ -1,5 +1,5 @@
 # DEPRECATED: pushdata-bitcoin
-This project has reached the end of its development because of it being a fork. 
+This repository has been deprecated because of it being a forked lib. 
 
 [![NPM Package](https://img.shields.io/npm/v/pushdata-bitcoin.svg?style=flat-square)](https://www.npmjs.org/package/pushdata-bitcoin)
 [![Build Status](https://img.shields.io/travis/bitcoinjs/pushdata-bitcoin.svg?branch=master&style=flat-square)](https://travis-ci.org/bitcoinjs/pushdata-bitcoin)
